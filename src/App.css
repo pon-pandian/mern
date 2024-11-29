@@ -1,0 +1,17 @@
+*{
+  font-family:Copperplate, Papyrus, fantasy;
+}
+.bg_light_blue{
+  background-color:#8FBDE8 !important;
+}
+.login_outer_box{
+  padding-top:18vh;
+  padding-bottom:18vh;
+}
+.login_inner_box{
+  border-radius:25px !important;
+}
+.login_home_box{
+  padding-top:8vh;
+  padding-bottom:8vh;
+}
